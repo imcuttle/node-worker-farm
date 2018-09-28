@@ -1,5 +1,8 @@
 {
-  "name": "worker-farm",
+  "name": "@moyuyc/worker-farm",
+  "publishConfig": {
+    "access": "public"
+  },
   "description": "Distribute processing tasks to child processes with an über-simple API and baked-in durability & custom concurrency options.",
   "version": "1.6.0",
   "homepage": "https://github.com/rvagg/node-worker-farm",
